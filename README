@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2875
+
+This utility defines an internal signal in VHDL. It map the function to key combination ,,. Within the architecture region, do ,, in visual mode and you will be prompted for the length of the signal. Only works for std_logic and std_logic_vector.
